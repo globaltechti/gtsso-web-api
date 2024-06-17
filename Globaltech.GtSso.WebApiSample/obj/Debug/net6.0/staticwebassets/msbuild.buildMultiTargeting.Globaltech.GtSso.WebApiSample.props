@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Globaltech.GtSso.WebApiSample.props" />
+</Project>
